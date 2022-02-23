@@ -1,6 +1,6 @@
-# daw-lm-bootstrap
+# daw-lm-crud
 
-Interfaz de un CRUD realizada con Boostrap para la asignatura de Lenguaje de Marcas.
+Interfaz de un CRUD realizada con Bootstrap para la asignatura de Lenguaje de Marcas.
 
 Imágenes: [Unsplash](https://unsplash.com/https:/)
 
