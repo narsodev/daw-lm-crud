@@ -1,3 +1,5 @@
+/* Cambiar font-family de los headings */
+
 @font-face {
   font-family: 'Nike';
   src: url('./fonts/Nike.otf');
@@ -38,6 +40,8 @@ input:focus:invalid, select:focus:invalid, textarea:focus:invalid {
 .button-primary:focus {
   box-shadow: 0 0 0 0.25rem rgb(220 20 60 / 50%) !important;
 }
+
+/* Estilos personalizados */
 
 body {
   background-image: url('./images/grailify-TVmAF0gh2qs-unsplash.jpg');
